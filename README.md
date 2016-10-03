@@ -1,3 +1,6 @@
 # hello-world
 for the beginning
-This is Leyard! I have just started to learn python.
+
+This is Leyard! 
+
+I have just started to learn python.
